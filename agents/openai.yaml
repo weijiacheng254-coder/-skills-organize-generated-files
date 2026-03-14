@@ -1,0 +1,4 @@
+interface:
+  display_name: "Organize Generated Files"
+  short_description: "Keep generated files tidy and grouped into clear folders."
+  default_prompt: "Use $organize-generated-files to place new files into a clean, predictable folder structure."
