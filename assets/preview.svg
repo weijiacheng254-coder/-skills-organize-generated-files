@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#F6F2E9"/>
+  <rect x="40" y="40" width="1120" height="550" rx="28" fill="#FFFDF8" stroke="#1F2937" stroke-width="3"/>
+  <text x="70" y="110" fill="#111827" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700">Organize Generated Files</text>
+  <text x="70" y="150" fill="#4B5563" font-family="Segoe UI, Arial, sans-serif" font-size="24">A Codex skill for keeping AI-generated files clean, grouped, and predictable.</text>
+
+  <rect x="70" y="190" width="470" height="330" rx="20" fill="#FFF3F2" stroke="#C2410C" stroke-width="2"/>
+  <text x="100" y="235" fill="#9A3412" font-family="Consolas, monospace" font-size="28" font-weight="700">Before</text>
+  <text x="100" y="280" fill="#7C2D12" font-family="Consolas, monospace" font-size="22">project/</text>
+  <text x="130" y="315" fill="#7C2D12" font-family="Consolas, monospace" font-size="22">run.py</text>
+  <text x="130" y="350" fill="#7C2D12" font-family="Consolas, monospace" font-size="22">chart1.png</text>
+  <text x="130" y="385" fill="#7C2D12" font-family="Consolas, monospace" font-size="22">output.csv</text>
+  <text x="130" y="420" fill="#7C2D12" font-family="Consolas, monospace" font-size="22">debug.log</text>
+  <text x="130" y="455" fill="#7C2D12" font-family="Consolas, monospace" font-size="22">final_report.md</text>
+
+  <rect x="660" y="190" width="470" height="330" rx="20" fill="#F0FDF4" stroke="#166534" stroke-width="2"/>
+  <text x="690" y="235" fill="#166534" font-family="Consolas, monospace" font-size="28" font-weight="700">After</text>
+  <text x="690" y="280" fill="#14532D" font-family="Consolas, monospace" font-size="22">project/</text>
+  <text x="720" y="315" fill="#14532D" font-family="Consolas, monospace" font-size="22">scripts/run.py</text>
+  <text x="720" y="350" fill="#14532D" font-family="Consolas, monospace" font-size="22">data/processed/output.csv</text>
+  <text x="720" y="385" fill="#14532D" font-family="Consolas, monospace" font-size="22">outputs/figures/chart1.png</text>
+  <text x="720" y="420" fill="#14532D" font-family="Consolas, monospace" font-size="22">outputs/reports/final_report.md</text>
+  <text x="720" y="455" fill="#14532D" font-family="Consolas, monospace" font-size="22">logs/debug.log</text>
+
+  <rect x="70" y="540" width="250" height="28" rx="14" fill="#111827"/>
+  <text x="92" y="560" fill="#FFFDF8" font-family="Segoe UI, Arial, sans-serif" font-size="16">$organize-generated-files</text>
+</svg>
